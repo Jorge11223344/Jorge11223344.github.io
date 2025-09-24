@@ -65,11 +65,11 @@ if (filter_var($visitor_email, FILTER_VALIDATE_EMAIL)) {
 
 // --- SMTP Gmail (puerto 587 TLS) ---
 // OJO: pega la contraseña de aplicación SIN espacios.
-$app_password = 'jgahgklhfvmlzgrc'; // <- pegalá SIN espacios (ej: "abcd efgh..." => "abcdefghijklmnop")
+$app_password = ''; // <- pegalá SIN espacios (ej: "abcd efgh..." => "abcdefghijklmnop")
 
 $contact->smtp = array(
   'host'       => 'smtp.gmail.com',
-  'username'   => 'jimunozacuna@gmail.com',
+  'username'   => 'info@gmail.com',
   'password'   => preg_replace('/\s+/', '', $app_password),
   'port'       => '587',
   // según versión de la librería, puede usar "encryption" o "secure"
