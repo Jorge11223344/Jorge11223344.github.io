@@ -70,7 +70,8 @@ Porque ofrezco una mezcla única de experiencia en industria, visión empresaria
 **¿Cómo pueden contactarte?**  
 - 📧 Email: [jimunozacuna@gmail.com]  
 - 💼 LinkedIn: [tu perfil]  
-- 🖥️ GitHub: [Jorge11223344]  
+- 🖥️ GitHub: [Jorge11223344]
+- 🖥️ WEB: https://jorge11223344.github.io/  
 
 ---
 
